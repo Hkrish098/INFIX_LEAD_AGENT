@@ -47,6 +47,10 @@ pip install -r requirements.txt
 
 ```
 
+```
+then run this ar root ur streamlit app
+streamlit run app.py
+```
 
 INFLX-LEAD-AGENT/
 ├── data/
