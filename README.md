@@ -21,7 +21,7 @@ A brief, description of what our AI agent or project does.
 
 ```bash
 # Clone the repository
-git clone 
+git clone https://github.com/Hkrish098/INFIX_LEAD_AGENT.git
 ```
 
 # make sure ur at the root 
