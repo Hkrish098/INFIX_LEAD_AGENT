@@ -48,10 +48,11 @@ pip install -r requirements.txt
 ```
 
 ```
-then run this ar root ur streamlit app
+# then run this ar root ur streamlit app
 streamlit run app.py
 ```
 
+```
 INFLX-LEAD-AGENT/
 ├── data/
 │   ├── manuals/
@@ -68,8 +69,7 @@ INFLX-LEAD-AGENT/
 ├── graph.py
 ├── leads.json
 └── requirements.txt
-
-
+```
 
 ## 🏗️ Architecture Explanation
 This project utilizes LangGraph to manage the conversational flow and state persistence. I chose LangGraph because its graph-based architecture is ideal for handling the non-linear transitions between intent identification, RAG-powered knowledge retrieval, and tool execution.
