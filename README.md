@@ -22,23 +22,26 @@ A brief, description of what our AI agent or project does.
 ```bash
 # Clone the repository
 git clone 
+```
 
 # make sure ur at the root 
-
+```
 ## on WINDOWS
 # Create the environment
 python -m venv venv
 
 # Activate the environment
 .\venv\Scripts\activate
-
+```
+```
 ## on MAC
 # Create the environment
 python3 -m venv venv
 
 # Activate the environment
 source venv/bin/activate
-
+```
+```
 # Install dependencies
 pip install -r requirements.txt
 
