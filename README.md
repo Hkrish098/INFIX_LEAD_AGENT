@@ -53,7 +53,6 @@ streamlit run app.py
 ```
 
 ```
-```
 INFLX-LEAD-AGENT/
 ├── data/
 │   ├── manuals/
@@ -70,7 +69,6 @@ INFLX-LEAD-AGENT/
 ├── graph.py
 ├── leads.json
 └── requirements.txt
-
 ```
 
 ## 🏗️ Architecture Explanation
